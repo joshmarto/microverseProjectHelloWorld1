@@ -1,2 +1,6 @@
 .vs/
 .gitignore
+slnx.sqlite
+ProjectSettings
+.suo
+applicationhost.config
